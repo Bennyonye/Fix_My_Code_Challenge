@@ -1,0 +1,10 @@
+.pagination-container {
+  margin: 15px auto;
+}
+.pagination-container .disabled {
+  pointer-events: none;
+}
+
+.pagination-wrapper {
+  text-align: center;
+}/*# sourceMappingURL=pagination.css.map */
